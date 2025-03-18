@@ -26,7 +26,7 @@ This is a **.NET Console Application** for a **Property Management System**. It 
 ### Steps to Run the Application
 1. **Clone the repository** (or create a new folder and copy the source files).
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/sagardahihande/Property-Management-System.git
    cd PropertyManagementSystem
    ```
 2. **Create a new console project** (if not cloned from a repository).
