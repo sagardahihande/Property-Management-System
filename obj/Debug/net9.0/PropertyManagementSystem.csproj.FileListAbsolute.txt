@@ -1,0 +1,14 @@
+D:\SagarProject-main\.Net\PropertyManagementSystem\bin\Debug\net9.0\PropertyManagementSystem.exe
+D:\SagarProject-main\.Net\PropertyManagementSystem\bin\Debug\net9.0\PropertyManagementSystem.deps.json
+D:\SagarProject-main\.Net\PropertyManagementSystem\bin\Debug\net9.0\PropertyManagementSystem.runtimeconfig.json
+D:\SagarProject-main\.Net\PropertyManagementSystem\bin\Debug\net9.0\PropertyManagementSystem.dll
+D:\SagarProject-main\.Net\PropertyManagementSystem\bin\Debug\net9.0\PropertyManagementSystem.pdb
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.AssemblyInfoInputs.cache
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.AssemblyInfo.cs
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.csproj.CoreCompileInputs.cache
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.dll
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\refint\PropertyManagementSystem.dll
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.pdb
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\PropertyManagementSystem.genruntimeconfig.cache
+D:\SagarProject-main\.Net\PropertyManagementSystem\obj\Debug\net9.0\ref\PropertyManagementSystem.dll
